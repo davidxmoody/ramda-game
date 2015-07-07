@@ -1,0 +1,20 @@
+{
+  "name": "ramda-game",
+  "version": "0.0.0",
+  "description": "A game to teach you ramdajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Moody <david@davidxmoody.com> (https://davidxmoody.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "cjsx-loader": "^2.0.1",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.3",
+    "node-libs-browser": "^0.5.2",
+    "ramda": "^0.15.1",
+    "webpack": "^1.9.11",
+    "webpack-dev-server": "^1.9.0"
+  }
+}
